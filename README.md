@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MANODEEPAK
 - 👀 I’m interested in Front-end Developer
-- 🌱 I’m currently learning MCA
+- 🌱 I’m currently pursuing MCA
 - 💞️ I’m looking to collaborate on Front-end
-- 📫 How to reach me by manodeepak601@gmail.com
+- 📫 How to reach me by manodeepak601@gmail.com, Linkedln.com/in/Manodeepak
 - 😄 Pronouns: Deepak
 - ⚡ Fun fact: Im a Photographer    
 
